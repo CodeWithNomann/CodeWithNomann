@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Noman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="codewithnomann" />
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="codewithnomann" />
 
 <p align="left"> <img width="500px"  src="https://komarev.com/ghpvc/?username=codewithnomann&label=Profile%20views&color=0e75b6&style=flat" alt="codewithnomann" width="150px" /> </p>
 
